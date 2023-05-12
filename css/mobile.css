@@ -1,10 +1,5 @@
 /* MOBILE CSS */
-@media(max-width: 468px) {
-  .body {
-      background: red;
-   }
-   
-  .container {
+.showcase {
     width: 218px;
     height: 353px;
   }
