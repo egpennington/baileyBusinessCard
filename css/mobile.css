@@ -1,12 +1,12 @@
 /* MOBILE CSS */
 @media(max-width: 468px) {
 .showcase {
-    width: 218px;
-    height: 353px;
+    width: 13.5rem;
+    height: 22rem;
   }
   .inside {
     flex-direction: column;
-    width: 215px;
-    height: 350px;    
+    width: 13.5rem;
+    height: 22rem;    
   }
 }
